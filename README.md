@@ -8,6 +8,9 @@
 ![css](https://img.shields.io/badge/CSS-1572B6)
 ![javascript](https://img.shields.io/badge/javaScript-F7DF1E)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinseong-1&show_icons=true&theme=transparent)
+
+
 <!--
 **jinseong-1/jinseong-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
