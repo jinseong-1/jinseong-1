@@ -9,6 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinseong-1&show_icons=true&theme=transparent)
 
+
 🌱 I’m currently learning Development
 I'm having a hard time because I haven't learned much yet.
 If you tell me first, I'll learn hard!
