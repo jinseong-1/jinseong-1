@@ -1,14 +1,17 @@
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Nace%20to%20meet%20you&20meet&fontSize=90)
 
 ## 안녕하세요 👋
 
 ## My Skills
 ![html](https://img.shields.io/badge/HTML-E34F26)
 ![css](https://img.shields.io/badge/CSS-1572B6)
-![javascript](https://img.shields.io/badge/javaScript-F7DF1E)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinseong-1&show_icons=true&theme=transparent)
+
+🌱 I’m currently learning Development
+I'm having a hard time because I haven't learned much yet.
+If you tell me first, I'll learn hard!
 
 
 <!--
