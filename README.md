@@ -1,10 +1,16 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Nace%20to%20meet%20you&20meet&fontSize=90)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Nice%20to%20meet%20you&20meet&fontSize=90)
 
 ## 안녕하세요 👋
 
 ## My Skills
 ![html](https://img.shields.io/badge/HTML-E34F26)
 ![css](https://img.shields.io/badge/CSS-1572B6)
+![javascript](https://img.shields.io/badge/javascript-febe98)
+![jQuery](https://img.shields.io/badge/jQuery-5affff)
+![Linux](https://img.shields.io/badge/Linux-ff12ef)
+![java](https://img.shields.io/badge/java-BB2649)
+![Mysql](https://img.shields.io/badge/Mysql-77ff70)
+![Spring](https://img.shields.io/badge/Spring-47c83e)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinseong-1&show_icons=true&theme=transparent)
